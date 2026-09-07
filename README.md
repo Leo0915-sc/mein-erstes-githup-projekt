@@ -1,6 +1,6 @@
-# Mein erstes GitHup-Projekt
+# Mein erstes GitHub-Projekt
 
-Hallo Ich lerne gerade GitHup.
+Hallo Ich lerne gerade GitHub.
 
 ## Über mich
 
@@ -9,7 +9,7 @@ Klasse: 25-HBFI1
 
 ## Das möchte ich lernen
 
-- GitHup verstehen
+- GitHub verstehen
 - Dateien bearbeiten
 - Mit anderen zusammenarbeiten
 
@@ -19,8 +19,10 @@ Mein Lieblingsfach ist:
 
 ## Mein Ziel
 
-Ich möchte mit GitHup lernen, wie man gemeinsam an Projekten arbeitet.
+Ich möchte mit GitHub lernen, wie man gemeinsam an Projekten arbeitet.
 
 ## Meine Änderung 
 
 Diese Änderung habe ich in meinem Branch erstellt.
+
+Ich teste gerade Branches auf GitHub.
