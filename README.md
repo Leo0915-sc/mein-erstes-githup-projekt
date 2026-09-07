@@ -20,3 +20,7 @@ Mein Lieblingsfach ist:
 ## Mein Ziel
 
 Ich möchte mit GitHup lernen, wie man gemeinsam an Projekten arbeitet.
+
+## Meine Änderung 
+
+Diese Änderung habe ich in meinem Branch erstellt.
