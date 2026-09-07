@@ -12,3 +12,11 @@ Klasse: 25-HBFI1
 - GitHup verstehen
 - Dateien bearbeiten
 - Mit anderen zusammenarbeiten
+
+## Mein Lieblingsfach
+
+Mein Lieblingsfach ist: 
+
+## Mein Ziel
+
+Ich möchte mit GitHup lernen, wie man gemeinsam an Projekten arbeitet.
